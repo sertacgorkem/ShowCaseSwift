@@ -2,9 +2,6 @@
 //  SceneDelegate.swift
 //  ShowCase
 //
-//  Created by Sertac Selim Gorkem on 6/1/20.
-//  Copyright © 2020 Serta.co. All rights reserved.
-//
 
 import UIKit
 

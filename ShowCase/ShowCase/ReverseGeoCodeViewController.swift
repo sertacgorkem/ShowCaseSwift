@@ -2,8 +2,7 @@
 //  ReverseGeoCodeViewController.swift
 //  CollApp
 //
-//  Created by Memduh Gorkem on 1/28/20.
-//  Copyright © 2020 Memduh Gorkem. All rights reserved.
+//  Created by Sertac Gorkem on 6/1/20.
 //
 
 import UIKit

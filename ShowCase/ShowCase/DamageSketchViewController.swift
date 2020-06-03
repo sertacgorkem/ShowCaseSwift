@@ -2,8 +2,7 @@
 //  DamageSketchViewController.swift
 //  CollApp
 //
-//  Created by Sertac Selim Gorkem on 1/23/20.
-//  Copyright © 2020 Memduh Gorkem. All rights reserved.
+//  Created by Sertac Gorkem on 6/1/20.
 //
 
 import UIKit
